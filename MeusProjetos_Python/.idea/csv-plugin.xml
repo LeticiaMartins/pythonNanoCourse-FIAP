@@ -3,6 +3,13 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="\Capitulo5_Manipula_Arquivos\economic-indicators.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Capitulo5_Manipula_Arquivos\inventario.csv">
           <value>
             <Attribute>
